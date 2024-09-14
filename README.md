@@ -251,7 +251,8 @@ Here is the preview of the Dashboard :
 
 Check the PDF :
 
-[Adventure Works Bike Shop.pdf](https://github.com/user-attachments/files/17003153/Adventure.Works.Bike.Shop.pdf)
+[Adventure_power_BI.pdf](https://github.com/user-attachments/files/17003726/Adventure_power_BI.pdf)
+
 
 Contributions are welcome! Please follow these guidelines:
 
