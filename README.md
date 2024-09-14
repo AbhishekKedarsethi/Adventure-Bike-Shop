@@ -252,3 +252,19 @@ Here is the preview of the Dashboard :
 Check the PDF :
 
 [Adventure Works Bike Shop.pdf](https://github.com/user-attachments/files/17003153/Adventure.Works.Bike.Shop.pdf)
+
+Contributions are welcome! Please follow these guidelines:
+
+- Fork the repository
+- Create a new branch
+  		(git checkout -b feature-branch)
+  
+- Commit your changes
+  		(git commit -m 'Add new feature')
+  
+- Push to the branch
+		 (git push origin feature-branch)
+  
+- Open a pull request
+
+For any questions or suggestions, feel free to contact me at abishek15012002@gmail.com.
