@@ -249,4 +249,6 @@ Here is the preview of the Dashboard :
 
 <img width="600" alt="first_page" src="https://github.com/user-attachments/assets/45274177-26d0-4df0-a799-13279777d8fe">
 
+Check the PDF :
+
 [Adventure Works Bike Shop.pdf](https://github.com/user-attachments/files/17003153/Adventure.Works.Bike.Shop.pdf)
